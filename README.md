@@ -77,23 +77,6 @@ client_socket.close()
 
 ---
 
-## 📂 Project Structure
-
-```
-Socket/
-├── README.md           # Project documentation
-├── requirements.txt    # Python dependencies
-├── src/
-│   ├── server.py      # Server implementation
-│   ├── client.py      # Client implementation
-│   └── utils.py       # Utility functions
-└── examples/
-    ├── chat_app.py    # Chat application example
-    └── data_transfer.py # File transfer example
-```
-
----
-
 ## 🛠️ Technologies
 
 - **Language**: Python 3.x
