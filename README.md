@@ -87,7 +87,7 @@ client_socket.close()
 
 ## 📖 Documentation
 
-For detailed documentation and advanced usage examples, please refer to the [project wiki](https://github.com/NeuralNine/stock-visualizer).
+For detailed documentation and advanced usage examples, please refer to the [project refrance](https://github.com/NeuralNine/stock-visualizer).
 
 
 
