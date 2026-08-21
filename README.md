@@ -1,25 +1,25 @@
-# 🔌 Socket
+#  Socket
 
 > **Network Communication Made Simple** - A Python-based socket programming library for building robust client-server applications.
 
 ---
 
-## 📋 Overview
+##  Overview
 
 Socket is a comprehensive Python project designed to simplify network communication using socket programming. Whether you're building real-time applications, chat systems, or distributed services, this library provides the foundation you need for reliable socket-based communication.
 
-### ✨ Key Features
+###  Key Features
 
-- 🚀 **Easy-to-use API** - Simplified socket operations for rapid development
-- 🔄 **Bidirectional Communication** - Full-duplex communication between clients and servers
-- 🛡️ **Reliable Connection Handling** - Robust error handling and connection management
-- ⚡ **Asynchronous Support** - Efficient non-blocking socket operations
-- 📦 **Lightweight** - Minimal dependencies, maximum performance
-- 🔌 **Multi-client Support** - Handle multiple concurrent connections
+-  **Easy-to-use API** - Simplified socket operations for rapid development
+-  **Bidirectional Communication** - Full-duplex communication between clients and servers
+-  **Reliable Connection Handling** - Robust error handling and connection management
+-  **Asynchronous Support** - Efficient non-blocking socket operations
+-  **Lightweight** - Minimal dependencies, maximum performance
+-  **Multi-client Support** - Handle multiple concurrent connections
 
 ---
 
-## 🎯 Main Use Cases
+##  Main Use Cases
 
 ```
 ┌─────────────┐                          ┌─────────────┐
@@ -36,7 +36,7 @@ Socket is a comprehensive Python project designed to simplify network communicat
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -77,7 +77,7 @@ client_socket.close()
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Language**: Python 3.x
 - **Protocol**: TCP/IP Sockets
@@ -85,7 +85,7 @@ client_socket.close()
 
 ---
 
-## 📖 Documentation
+##  Documentation
 
 For detailed documentation and advanced usage examples, please refer to the [project refrance](https://github.com/NeuralNine/stock-visualizer).
 
@@ -93,13 +93,13 @@ For detailed documentation and advanced usage examples, please refer to the [pro
 
 ---
 
-## 👤 Author
+##  Author
 
 **Omar Awad** - [@OmarAwad911](https://github.com/OmarAwad911)
 
 ---
 
-## 📧 Contact & Support
+##  Contact & Support
 
 For support, email your inquiry or open an [issue](https://github.com/OmarAwad911/Socket/issues) on GitHub.
 
